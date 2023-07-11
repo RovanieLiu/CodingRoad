@@ -5,7 +5,7 @@ Record my learning road of coding algorithm and specification, including 堆栈/
 | DAY | ITEM | STATUS | Tackled Question|
 |:---:| :---: |:---:| :---|
 |1|Array|DONE|704, 27|
-|2|Array|DONE||977, 209, 59|
+|2|Array|DONE|977, 209, 59|
 |3|Linked List|DONE|203, 707, 206|
 |4|Linked List|DONE|24, 19, 02.07, 142|
 |5|Hash Table|DONE|242, 349, 202, 1|
