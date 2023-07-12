@@ -25,8 +25,15 @@ Record my learning road of coding algorithm and specification, including 堆栈/
 |19|Backtracking Algorithm|DONE|77|
 |20|Backtracking Algorithm|DONE|216, 17|
 |21|Backtracking Algorithm|DONE|39, 40, 131|
+|22|Backtracking Algorithm|DONE|93, 78, 90|
 
 "*" means  from "剑指offer" set.
+
+# Special Pratice For
+|Company|Finished Question|Status|
+|:---:|:---|:---:|
+|ByteDance|648, 662|1/10|
+
 # Disclaimer
 This reposity summarizes my learning road for data algorithm and structure under [the "leetcode-master" camp](https://github.com/youngyangyang04/leetcode-master). 
 
