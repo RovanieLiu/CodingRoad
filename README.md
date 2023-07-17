@@ -26,6 +26,9 @@ Record my learning road of coding algorithm and specification, including 堆栈/
 |20|Backtracking Algorithm|DONE|216, 17|
 |21|Backtracking Algorithm|DONE|39, 40, 131|
 |22|Backtracking Algorithm|DONE|93, 78, 90|
+|23|Dynamic Planning|DONE| 70, 509, 746|
+|24|Dynamic Planning|DONE| 62, 63|
+|25|Dynamic Planning|DONE| 343, 96|
 
 "*" means  from "剑指offer" set.
 
